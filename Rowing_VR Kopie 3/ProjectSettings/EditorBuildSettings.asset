@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene_Lake.unity
+    guid: ad4d4a14ad597402193a28de75645181
+  - enabled: 0
+    path: Assets/Scenes/Lake_Vertical.unity
+    guid: 23adbbd8447d54bf3b6df2caa5181824
+  - enabled: 0
+    path: Assets/Scenes/Lake_Horizontal.unity
+    guid: 8b8e00775291e46e4bdd1a798e7655b7
+  - enabled: 0
+    path: Assets/Scenes/Lake_Relocation.unity
+    guid: 91f25bd0a3d7d4bf9905f40341649176
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: 5c5b613cf4ddc464787147d1baf15257
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/BoatScene.unity
+    guid: f687f23e33ddf43069e265f8f00a7247
+  - enabled: 0
+    path: Assets/Scenes/StartScene.unity
+    guid: 3539cf2973f5e4c60aff7b89908e3919
+  - enabled: 0
+    path: Assets/Scenes/EnvironmentScene.unity
+    guid: fba33255e099e4bdea4be6d35a63b56c
+  - enabled: 0
+    path: Assets/Scenes/VerticalTrainingScene.unity
+    guid: 632bb7f8ed2734eb0b03b4b5a60c4e66
+  - enabled: 0
+    path: Assets/Scenes/VerticalLevel1Scene.unity
+    guid: d37591618d87847d898833f982b08b1f
+  - enabled: 0
+    path: Assets/Scenes/VerticalLevel2Scene.unity
+    guid: c1626dc16a70f40a9bc6817d17fbaff1
+  - enabled: 0
+    path: Assets/Scenes/VerticalLevel3Scene.unity
+    guid: 2950d6a705ec14a60936aaed16a6cb4a
+  - enabled: 1
+    path: Assets/Scenes/HorizontalTrainingScene.unity
+    guid: 1376aca9d691b4753949c25ad0eacceb
+  - enabled: 0
+    path: Assets/Scenes/HorizontalLevel1Scene.unity
+    guid: 54b4dc90f63384b04b76c51d32640476
+  - enabled: 0
+    path: Assets/Scenes/HorizontalLevel2Scene.unity
+    guid: a1cfdabbafd6048109bae3e044f80cfe
+  - enabled: 0
+    path: Assets/Scenes/HorizontalLevel3Scene.unity
+    guid: 7a697159b5dc44e038797a7b3c522214
+  - enabled: 0
+    path: Assets/Scenes/RelocationTrainingScene.unity
+    guid: 3340dcb0173b442cd8270d31b1281aa1
+  - enabled: 0
+    path: Assets/Scenes/RelocationLevel1Scene.unity
+    guid: b0077a3d7d61b418ba6d292314366b70
+  - enabled: 0
+    path: Assets/Scenes/RelocationLevel2Scene.unity
+    guid: 2a276ecf174b245aeb965e2a4c55066d
+  - enabled: 0
+    path: Assets/Scenes/RelocationLevel3Scene.unity
+    guid: ccb661a50bc0e485b8c916618d3eadf8
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3501c671d4c8c4b7c920e050a0acbe95, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7baa46f2b247b40fea39979d0a560427, type: 2}
